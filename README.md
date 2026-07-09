@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayasurya</h1>
+<h1 align="center">Hi 👋, I'm Jaya Surya</h1>
 <h3 align="center">Data Engineer | PySpark · Databricks · Delta Lake · Building Lakehouse Pipelines at Scale</h3>
 
 <p align="center">
@@ -25,7 +25,6 @@
 
 ### 📜 Certifications
 
-### 📜 Certifications
 
 ![Databricks Data Engineer Associate](https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)<br>
 
