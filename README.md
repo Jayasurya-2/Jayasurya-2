@@ -6,8 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jayasuryapuralasetti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/jaya-surya-puralasetti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://jayasuryapuralasetti.online" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
@@ -57,7 +64,7 @@
 
 ---
 
-### 📌 Featured Projects
+### 🏗️ Data Engineering Projects
 
 #### 🛒 [E-Commerce Analytics Lakehouse](https://github.com/Jayasurya-2/E-Commerce-Analytics-Lakehouse)
 End-to-end Medallion pipeline on Databricks — 20+ notebooks across 6 source entities. Bronze layer via Auto Loader, Silver layer driven by a watermark control table with Delta MERGE, and Gold layer covering RFM segmentation, cohort retention, and executive KPIs. Fully namespaced with Unity Catalog across bronze/silver/gold schemas.
