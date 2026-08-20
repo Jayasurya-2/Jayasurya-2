@@ -195,9 +195,7 @@ Engineering scalable data pipelines and Lakehouse architectures on Databricks, d
 src="https://github-readme-stats-bay-gamma-40.vercel.app/api?username=Jayasurya-2&show_icons=true&theme=tokyonight&hide_border=true"
 width="49%"/>
 
-<img
-src="https://streak-stats.demolab.com/?user=Jayasurya-2&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"
-width="49%"/>
+
 
 </div>
 
