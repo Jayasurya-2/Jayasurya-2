@@ -15,6 +15,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,
 ![Databricks Certified](https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Spark Certified](https://img.shields.io/badge/Databricks-Apache%20Spark%20Developer-7C3AED?style=for-the-badge&logo=apachespark&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS-Data%20Engineer%20Associate-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Certified](https://img.shields.io/badge/GitHub%20Certified-Agentic%20AI%20Developer-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![Location](https://img.shields.io/badge/📍-Hyderabad,_India-5B21B6?style=flat-square)
 
@@ -162,6 +163,7 @@ Engineering scalable data pipelines and Lakehouse architectures on Databricks, d
 | 🏆 Databricks Data Engineer Associate | Certified in end-to-end Lakehouse data engineering on Databricks |
 | 🏆 Databricks Apache Spark Developer | Certified in distributed data processing with Apache Spark |
 | 🏆 AWS Data Engineer Associate | Certified in cloud-native data engineering on AWS |
+| 🏆 GitHub Certified: Agentic AI Developer | Certified in developing and integrating agentic AI solutions using GitHub and modern AI development workflows |
 | 🏆 Production Lakehouse Delivery | Shipped two complete Medallion Architecture pipelines end-to-end, both live on GitHub |
 
 </div>
@@ -179,6 +181,10 @@ Engineering scalable data pipelines and Lakehouse architectures on Databricks, d
 ![Databricks Data Engineer Associate](https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=flat-square&logo=databricks&logoColor=white) <br> <br>
 ![Databricks Apache Spark Developer](https://img.shields.io/badge/Databricks-Apache%20Spark%20Developer-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
+**Microsoft / GitHub**
+
+![GitHub Certified: Agentic AI Developer](https://img.shields.io/badge/GitHub%20Certified-Agentic%20AI%20Developer-181717?style=flat-square&logo=github&logoColor=white)
+
 ---
 
 ## 🟣 GitHub Analytics
@@ -195,17 +201,6 @@ width="49%"/>
 
 </div>
 
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasurya-2&theme=tokyo-night&hide_border=true"
-width="100%"/>
-
-</div>
 
 ---
 
