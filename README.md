@@ -185,17 +185,13 @@ Engineering scalable data pipelines and Lakehouse architectures on Databricks, d
 
 <div align="center">
 
-<!-- <img
-src="https://github-readme-stats.vercel.app/api?username=Jayasurya-2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"
-width="49%"/> -->
-<img src="https://streak-stats.demolab.com/?user=Jayasurya-2&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img
+src="https://github-readme-stats-bay-gamma-40.vercel.app/api?username=Jayasurya-2&show_icons=true&theme=tokyonight&hide_border=true"
+width="49%"/>
 
-<br/>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jayasurya-2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <!-- <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jayasurya-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /> -->
-</p>
+<img
+src="https://streak-stats.demolab.com/?user=Jayasurya-2&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"
+width="49%"/>
 
 </div>
 
